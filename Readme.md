@@ -6,6 +6,8 @@
 
 ## Table of contents
 
+pranav kohli
+
 * [Installation](#Installation)
 * [Features](#Features)
 * [Docs & Community](#docs--community)
